@@ -8,7 +8,8 @@ Dino's Cinema web -->  REST API
 Nel seguente progetto sonno stati integrati dettagli e elementi tramite REST API. Le API utilizzate sono:
 - OMDb API
 - TMDB API
-- Spotify 
+- Spotify
+
 Sono state apportate modifiche ai file homepage.css, film.css, contents.js , script.js. In particolare nel file script.js sono stati creati nuovi elementi e sono stati aggiunte/rimosse  classi (ad elementi html) dinamicamente.
 Sono stati creati due nuovi file JavaScript:
 - api.js : contente tutte le richieste ai servizi esterni e il loro utilizzo
